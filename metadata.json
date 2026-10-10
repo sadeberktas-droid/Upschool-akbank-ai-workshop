@@ -1,0 +1,6 @@
+{
+  "name": "CareerMentor AI - Mülakat & Kariyer Koçu",
+  "description": "Mülakatçının unvanına özel potansiyel mülakat soruları üreten, canlı simülasyon sunan ve tamamlanan eğitimlere göre bir sonraki kariyer & eğitim yol haritasını çizen yapay zeka ajanı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
